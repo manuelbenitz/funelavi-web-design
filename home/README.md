@@ -1,7 +1,7 @@
 ## Website Preview
 
-![Homepage screenshot](./home/home1.png)
-![Homepage screenshot](./home/home2.png)
-![Homepage screenshot](./home/home3.png)
-![Homepage screenshot](./home/home4.png)
-![Homepage screenshot](./home/home5.png)
+<img src="home/home1.png" width="700">
+<img src="home/home2.png" width="700">
+<img src="home/home3.png" width="700">
+<img src="home/home4.png" width="700">
+<img src="home/home5.png" width="700">
