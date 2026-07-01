@@ -20,3 +20,9 @@ Funelavi Web Design is a website design and maintenance project focused on impro
 - Keep the site updated, stable, and easy to navigate.
 - Optimize performance and user experience.
 - Support long-term website maintenance and improvements.
+
+## Website Preview
+
+![Homepage screenshot](funelavi-web-design/home/home1.png)
+![Homepage screenshot](funelavi-web-design/home/home2.png)
+![Homepage screenshot](funelavi-web-design/home/home3.png)
