@@ -4,6 +4,10 @@ In a remote capacity, I was responsible for designing the website with a respons
 
 Funelavi Web Design is a website design and maintenance project focused on improving the visual layout, usability, performance, and ongoing optimization of the website. It includes UI updates, content adjustments, responsiveness improvements, and regular maintenance tasks to keep the site fast, reliable, and user-friendly.
 
+## Live Website
+
+[Visit Funelavi Website](https://www.funelavi.org)
+
 ## Key Responsibilities
 
 - Website design and visual updates.
