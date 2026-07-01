@@ -1,5 +1,7 @@
 # Funelavi Web Design
 
+In a remote capacity, I was responsible for designing the website with a responsive approach, editing photography and video content for the website and YouTube channel, supporting SEO efforts, and documenting public events. Since 2020, Funelavi has expanded into a digital space through its official website, helping increase the reach of projects developed in El Salvador, Honduras, and Guatemala. Through this work, the foundation continues supporting vulnerable groups in alignment with the UN Sustainable Development Goals.
+
 Funelavi Web Design is a website design and maintenance project focused on improving the visual layout, usability, performance, and ongoing optimization of the website. It includes UI updates, content adjustments, responsiveness improvements, and regular maintenance tasks to keep the site fast, reliable, and user-friendly.
 
 ## Key Responsibilities
