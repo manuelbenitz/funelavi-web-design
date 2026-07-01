@@ -25,4 +25,6 @@ Funelavi Web Design is a website design and maintenance project focused on impro
 ![Homepage screenshot](./home/home1.png)
 
 ## Website Preview
-![Google Business Profile screenshot](./contacus/contacus1.png)
+https://maps.app.goo.gl/4JctcvUQJ39wrkkB9
+
+![Google Business Profile screenshot](./contactus/contactus1.png)
