@@ -11,7 +11,7 @@ Funelavi Web Design is a website design and maintenance project focused on impro
 - Content and structure updates.
 - General user experience enhancement.
 - Monitoring and fixing layout or usability issues.
-- Producing audiovisual content (eventually).
+- Producing audiovisual content when needed.
 
 ## Project Goals
 
@@ -20,6 +20,14 @@ Funelavi Web Design is a website design and maintenance project focused on impro
 - Keep the site updated, stable, and easy to navigate.
 - Optimize performance and user experience.
 - Support long-term website maintenance and improvements.
+
+## Tools Used
+
+- Adobe Photoshop for image editing and visual assets.
+- Wix as the website hosting platform and for hosting photos.
+- Wondershare Filmora for editing some videos.
+- YouTube for video hosting.
+- Google Drive for hosting PDF files.
 
 ## Website Preview
 ![Homepage screenshot](./home/home1.png)
